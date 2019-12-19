@@ -1,0 +1,67 @@
+{
+    "name": "TrafficLand",
+    "description": "Software and media company that focuses on providing traffic video around the globe.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28714-www-trafficland-com.jpg",
+    "tags": [
+        "have api",
+        "networks",
+        "surveillance",
+        "traffic",
+        "traffic cameras"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/trafficland\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "TrafficLand",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28714-www-trafficland-com.jpg",
+            "humanURL": "http:\/\/www.trafficland.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/trafficland-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Website",
+            "url": "http:\/\/www.trafficland.com\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/trafficland"
+        },
+        {
+            "type": "Developers",
+            "url": "https:\/\/trafficlandapi.docs.apiary.io\/#"
+        },
+        {
+            "type": "Email",
+            "url": "info@trafficland.com"
+        },
+        {
+            "type": "Email",
+            "url": "sales@trafficland.com"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/trafficland"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/TrafficLand_INC"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.trafficland.com"
+        }
+    ]
+}
